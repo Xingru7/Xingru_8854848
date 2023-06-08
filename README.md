@@ -1,1 +1,5 @@
-# Xingru_8854848
+My name: Xingru
+
+Project Title: Lab3
+
+Student Id:8854848
